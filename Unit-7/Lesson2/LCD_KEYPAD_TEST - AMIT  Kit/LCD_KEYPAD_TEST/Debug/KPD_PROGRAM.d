@@ -1,0 +1,15 @@
+KPD_PROGRAM.d KPD_PROGRAM.o: .././KPD_PROGRAM.c .././STD_TYPES.h \
+ .././BIT_MATH.h .././ATMEGA32_REG.h .././DIO_INTERFACE.h \
+ .././KPD_INTERFACE.h .././KPD_CONFIG.h
+
+.././STD_TYPES.h:
+
+.././BIT_MATH.h:
+
+.././ATMEGA32_REG.h:
+
+.././DIO_INTERFACE.h:
+
+.././KPD_INTERFACE.h:
+
+.././KPD_CONFIG.h:

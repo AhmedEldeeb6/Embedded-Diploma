@@ -1,0 +1,13 @@
+UART_PROGRAM.d UART_PROGRAM.o: .././UART_PROGRAM.c .././UART_INTERFACE.h \
+ .././ATMEGA32_REG.h .././STD_TYPES.h .././BIT_MATH.h \
+ .././DIO_INTERFACE.h
+
+.././UART_INTERFACE.h:
+
+.././ATMEGA32_REG.h:
+
+.././STD_TYPES.h:
+
+.././BIT_MATH.h:
+
+.././DIO_INTERFACE.h:

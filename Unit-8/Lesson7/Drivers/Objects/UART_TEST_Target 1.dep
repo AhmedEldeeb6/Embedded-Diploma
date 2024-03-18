@@ -1,0 +1,6 @@
+Dependencies for Project 'UART_TEST', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6140001::V6.14.1::ARMCLANG
+F (.\.project)(0x60888800)()
+F (.\Src\main.c)(0x65C14C19)()
+F (.\Src\syscalls.c)(0x60888800)()
+F (.\Src\sysmem.c)(0x60888800)()
